@@ -16,5 +16,5 @@ Python
 3. A loss graph as well as a list of parameter weights and the error in the console will be produced after the program is run.
 
 MATLAB
-1. Run EC552_final_project.m in MATLAB and it will generate the training/testing data in X1/Y1 X2/Y2 and the three boosting algorithm will that allow multiclass classification. 
+1. Run EC552_final_project.m in MATLAB and it will generate the training/testing data in X1/Y1 X2/Y2 and the three boosting algorithm that will allow multiclass classification. 
 2. The 3D scatter plot of artificial data and the training and testing error plot will be displayed at the end.
