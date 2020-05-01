@@ -1,6 +1,6 @@
 # EC552_Final_Project
 
-//COMSOL
+COMSOL
 1. Open .mph file in COMSOL
 2. Under the Model Builder window, go to Study 1
 3. You can either right click and click compute, or you can use the bottom at the top menu bar
