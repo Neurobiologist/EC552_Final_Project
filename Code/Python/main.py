@@ -65,7 +65,12 @@ plt.xlabel("iterations")
 plt.ylabel("loss")
 plt.show()
 
-print(theta_est)
+print("length: {}".format(+theta_est[1]))
+print("width: {}".format(+theta_est[2]))
+print("distance: {}".format(+theta_est[3]))
+print("electricField: {}".format(+theta_est[4]))
+print("voltage: {}".format(+theta_est[5]))
+print("flowRate: {}".format(+theta_est[6]))
 
 ybar = predict(test,theta_est)
 summation = 0
@@ -75,5 +80,5 @@ for i in range(len(testy)):
     summation = summation + squareddiff
 MSE = summation/len(testy)
 
-print(MSE)
+print("Error: {}".format(MSE))
         
