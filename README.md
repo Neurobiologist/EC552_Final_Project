@@ -1,5 +1,13 @@
 # EC552_Final_Project
 
+## Introduction
+
+Metastasis is a major predictor of morbidity and mortality in cancer patients, but the details of this process are poorly understood. Here we report the design and characterization of a microfluidic assay developed to quantify the proliferative index of metastatic breast cancer cells and elucidate their molecular and genetic features.
+These data can be used to develop novel therapeutics to target and inhibit specific stages of metastatic progression. Full report available [here](https://github.com/Neurobiologist/EC552_Final_Project/blob/master/Microfluidics_EC552_Literature%20Review%20and%20Project%20Summary.pdf).
+
+
+
+## Usage
 COMSOL
 1. Open .mph file in COMSOL
 2. Under the Model Builder window, go to Study 1
